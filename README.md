@@ -1,1 +1,3 @@
-# koteisisan
+# 総社市　水道施設固定資産台帳等更新業務用　掲示板
+運用ルール
+　ISSUES の　CLOSE　は，OPEN　した者が行うこと。
